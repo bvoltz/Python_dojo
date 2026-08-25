@@ -27,3 +27,7 @@ SUCCESS: send_report completed.
 *   **Days 1–20:** Build perfect syntax execution and flawless layout alignment.
 *   **Day 21:** Inject intentional failures to stress-test the defensive error handling.
 *   **Days 22+:** Speed run validation (flawless script deployment under 120 seconds).
+
+
+## 🧠 Deep Dive
+* To understand the core mental model behind this script, read the [Automation Concept Guide](CONCEPT_GUIDE.md).
